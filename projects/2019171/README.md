@@ -35,7 +35,7 @@
 
 # Παραδοτέο 3ο
 
-Άσκηση γραμμής εντολών [demonstrate base system]
+Άσκηση γραμμής εντολών (https://asciinema.org/a/dkDAHBSzalwQVzQhc5KVoxGqh)
 
 # Παραδοτέο 4ο
 
